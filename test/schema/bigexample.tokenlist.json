@@ -13,6 +13,13 @@
   ],
   "tokens": [
     {
+      "address": "0x7Da7A408e4095e14c21097aA5Ff79CB0427a6d40",
+      "chainId": 1,
+      "name": "Doge Dust",
+      "symbol": "DDUST",
+      "decimals": 18
+    },
+    {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1,
       "name": "Wrapped Ether",
